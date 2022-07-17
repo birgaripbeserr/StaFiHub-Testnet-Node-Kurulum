@@ -1,6 +1,17 @@
-# Stafihub-Test
+# StaFiHub Testnet Node Kurulumu ve Validatör Olma
 
-Öncelikle aşağıdaki komutlarla başlayalım
+***Hoşgeldiniz Arkadaşlar; öncelikle sistem gereksinimlerini sizlerle paylaşmak istiyorum ve ardından kuruluma geçeceğiz.***
+Lütfen SatFiHub Discord Kanalına katılmayı ve duyuruları takip etmeyi unutmayın. StaFiHub Discord Linki: https://discord.gg/wa7FvEyF
+
+***Sorularınız için sosyal medya hesaplarımdan bana ulaşabilirsiniz. En alt kısma hesap bilgilerimi bıakıyorum. Kolay gelsin, bol şanslar arkadaşlar.
+
+Sistem Gereksinimleri:
+```
+8GB RAM
+300 GB SSD
+4 vCPU
+
+Aşağıdaki komutlarla başlayalım
 ```
 cd $HOME
 sudo apt update && sudo apt upgrade -y
@@ -51,7 +62,7 @@ journalctl -u stafihubd -f
 ```
 Discord kanalından token isteyebilirsiniz (https://discord.gg/wa7FvEyF)
 ```
-!faucet send YOUR_WALLET_ADDRESS
+!faucet send (YOUR_WALLET_ADDRESS / SİZİN KENDİ CÜZDAN ADRESİNİZ)
 ```
 
 Sync durumunu kontrol
@@ -84,9 +95,9 @@ Explorer
 ```
 https://testnet-explorer.stafihub.io/stafi-hub-testnet
 ```
-Gereksinimler
-```
-8GB RAM
-300 GB SSD
-4 vCPU
-```
+
+Hesaplarım:
+...
+Telegram: @birgaripbeser
+https://twitter.com/birgaripbeserr
+https://medium.com/@birgaripbeserr
